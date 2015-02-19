@@ -1,0 +1,26 @@
+.container {
+    max-width: 800px;
+}
+
+html {
+    background-image: radial-gradient(50% 97%, #51CEF0  16%, #51CEF0   16%, #31B9E9   52%, #2E8AE7   98%);
+}
+
+body {
+    font-family: "helvetica neue" !important;
+    color: white;
+}
+
+.headline {
+    color: #EEFF12;
+    font-weight: bold;
+}
+
+.dates {
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
