@@ -8,10 +8,9 @@ linktitle = "Getting Started"
 
 ![Docker Party](/images/docker-friends.png)
 
-Contributing to the Docker project, and to any open source project, can
-be a rewarding experience both in that you can help yourself
-and projects you are working on, as well as the countless number of
-others you may help with your contribution.
+Contributing to the Docker project or to any open source project can be a
+rewarding experience. You help yourself and your help projects you are working on, as
+well as the countless number of other project participants.
 
 Open source projects depend on a lot more than just code to be
 successful. Proper documentation, testing, training, publicity, support and

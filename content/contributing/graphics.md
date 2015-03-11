@@ -40,7 +40,7 @@ architecture" target="_blank">poorly executed graphics</a> and improve them.
 	artwork could be a PSD, an AI, or a SVG file.  Of course, you also might just
 	submit a CSS file if it fits the task you took on.
 
-2. <a href="License the output" target="_blank">License the output</a> to Docker. 
+2. <a href="http://goo.gl/T0aSqd" target="_blank">License the output</a> to Docker. 
 
 3.  Optionally, write a `README.txt` file to explain your work.
 

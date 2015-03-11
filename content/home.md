@@ -64,3 +64,9 @@ This event is thanks to the many wonderful people throughout the world who
 contribute their time and talents to open source. This includes our awesome
 meetup organizers who, without their efforts this would not be possible. 
 
+# Sponsors
+
+IBM
+
+
+
