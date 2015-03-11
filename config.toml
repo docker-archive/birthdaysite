@@ -1,3 +1,4 @@
 baseurl = "http://docker.party/"
 languageCode = "en-us"
 title = "Docker's Birthday Party"
+theme = "hugo-bootswatch"
