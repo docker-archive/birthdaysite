@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+    <div class="container">
+
+        {{ range where .Data.Pages "Title" "Home" }}
+                    <p>{{ .Content }}</p>
+        {{ end }}
+
+        {{ partial "container-footer.html" . }}
+
+    </div>
+
+{{ partial "footer.html" . }}

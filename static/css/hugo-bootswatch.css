@@ -1,0 +1,28 @@
+body{
+    padding-top:50px;
+    background-color: rgba(0,0,0,0) !important;
+    font-size: 18pt;
+    line-height: 1.5em;
+}
+footer{
+    padding-top:50px;
+}
+
+html {
+    background-image: radial-gradient(50% 97%, #51CEF0  16%, #51CEF0   16%, #31B9E9   52%, #2E8AE7   98%);
+}
+
+img {
+    max-width: 100%;
+    max-height: 50vh;
+    margin: auto;
+    display: block;
+}
+
+p, a, h1, h2, h3, h4, h5, h6, ul,ol, li {
+    text-shadow: 1px 1px 1px #111 !important;
+}
+
+p {
+    padding-bottom: 1em;
+}
