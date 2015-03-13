@@ -5,7 +5,7 @@ title = "Home"
 
 ![Docker Party](/images/2-years.png)
 
-During the week of March 23rd, the docker community will be hosting [over a
+During the week of March 23rd, the Docker community will be hosting [over a
 dozen open-source-a-thon parties](/events) around the world. At these parties
 the Docker core team and expert developers from the broader open source
 community will teach and guide participants on how to contribute to open
