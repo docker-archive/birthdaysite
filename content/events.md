@@ -31,6 +31,7 @@ conserve oceans.
 * [**Boston** @ Akamai](http://www.meetup.com/Docker-Boston/events/220936081)
 * [**Denver** @ SendGrid](http://www.meetup.com/Docker-Denver/)
 * [**San Francisco** @ Docker](http://www.meetup.com/Docker-meetups/events/220935945/)
+* [**Sydney** @ Optiver](http://www.meetup.com/Sydney-Docker-User-Group/events/221082378/)
 
 ## March 26th
 
