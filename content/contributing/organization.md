@@ -1,53 +1,71 @@
 +++
 date = "2015-03-16T12:40:41-04:00"
-title = "Contributing to Organization"
-linktitle = "Organization"
+title = "Organize our issues"
+linktitle = "Organize our issues"
 
 +++
 
-Docker is a very large project with a lot of things moving at all
-times. One of the best ways to begin getting involved is to help us
-organize our work.
+Help us organize our work by triaging. Triage is the process of reviewing
+incoming issue tickets, gathering more information about the situation, and
+verifying whether or not the issue is valid.
+
+You should triage if you want to discover the Docker features other contributors
+think is important. Triage is great for contributors that have an interest
+or experience in software product management or project management.
 
 
-Triage, the process of reviewing incoming issue tickets, gathering more
-information about the situation, and verifying whether or not the report
-is valid is a critical part of the day-to-day operation of all of our
-projects. 
+# What do you triage?
 
-Some new tickets are valuable reports of broken behavior, others are
-suggestions for enhancements both large and small, and some are, in
-fact, not bugs at all. Identifying which issues are which and
-facilitating timely communication between the reporter and the
-contributors whose input is necessary to resolve the problem are all
-parts of the triage process.
+The Docker projects use GitHub issues to record issues and feature requests that
+come in from contributors. Contributors create new issues if they want to:
 
-# Why Triage?
+* report a problem they had with Docker software
+* request a new feature 
+* ask a question
 
-For a newcomer, triage is a natural way to find the pulse of a project
-and see what other contributors will be thinking about on any given day
-(because they're also helping with triage), as well as interacting with
-the team and making yourself part of the process! It's also a good way
-to increase the breadth of your exposure to a particular project; the
-process of verifying bugs will encourage in-depth looks at parts of code
-and functionality with which you weren't already familiar. And if you're
-hoping to eventually contribute code, helping with triage is a great way
-to identify the bugs that need to be fixed and observe how others go
-about solving similar problems.
+# How do I triage?
 
-# How Do I Help?
+Follow these steps:
 
-The Docker Project keep track of issues, bugs and feature requests using
-GitHub issues. All you have to do is sign up for a GitHub account if you
-don't already have one. From there on out, it's as simple as "watching"
-the repositories you want to help triage. New issues and comments will
-make their way to your notification center and inbox, depending on your
-notification settings.
+1. Sign up for a <a href="https://github.com" target="_blank">Github account</a>.
 
-# Triage Workflow
+2. Visit a Docker repository and press the **Watch** button.
 
-1. Docker issues that need triaging will have the label “Needs Triage”
-   applied to them.
+	This tells GitHub to notify you of new issues. Depending on your settings,
+	notification go to your GitHub or email inbox. Some of repositories you can watch are:
+
+	<table class="tg">
+		<tr>
+			<td class="tg-031e"><a href="https://github.com/docker/docker" target="_blank">docker/docker</a></td>
+			<td class="tg-031e">Docker the open-source application container engine</td>
+		</tr>
+		<tr>
+			<td class="tg-031e"><a href="https://github.com/docker/machine" target="_blank">docker/machine</a></td>
+			<td class="tg-031e">Software for the easy and quick creation of Docker hosts on your computer, on cloud providers, and inside your own data center.</td>
+		</tr>
+		<tr>
+			<td class="tg-031e"><a href="https://github.com/docker/swarm" target="_blank">docker/swarm</a></td>
+			<td class="tg-031e">Native clustering for Docker; manage several Docker hosts as a single, virtual host.</td>
+		</tr>
+		<tr>
+			<td class="tg-031e"><a href="https://github.com/docker/compose" target="_blank">docker/compose</a></td>
+			<td class="tg-031e">Define and run complex applications using one or many interlinked containers.</td>
+		</tr>
+	</table>
+	&nbsp;
+	
+	See <a href="https://github.com/docker" target="_blank">the complete list of
+	Docker repositories</a> on GitHub.
+	
+3. Open an issue.
+
+4. Use <a
+href="https://github.com/docker/docker/blob/master/project/ISSUE-TRIAGE.md"
+target="_blank">the triage process</a> to triage an issue. 
+
+5. Triage another issue.
+
+
 2. Review the issue ticket and reply politely with an appropriate
    response based on the situation. You may need to ask for more
    information, a simplified test case (or a test case at all),

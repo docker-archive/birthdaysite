@@ -5,3 +5,13 @@ linktitle = "Graphics"
 
 +++
 
+Why a graphic is a great way to contribute. 
+
+
+# What is a graphic
+
+Explain the attributes of a graphic.
+
+# How to write a graphic
+
+TBD

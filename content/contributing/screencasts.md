@@ -5,3 +5,13 @@ linktitle = "Screencasts"
 
 +++
 
+Why a screencast is a great way to contribute. 
+
+
+# What is a screencast
+
+Explain the attributes of a screencast.
+
+# How to write a screencast
+
+TBD
