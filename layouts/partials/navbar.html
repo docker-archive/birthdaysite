@@ -13,14 +13,14 @@
               {{ range where .Site.Pages "Section" "" }}
                 {{ if eq .Title "Home" }}
                 {{ else }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
                 {{ end }}
               {{ end }}
                <li class="dropdown">
                   <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="sections">Contributing<span class="caret"></span></a>
                   <ul class="dropdown-menu" aria-labelledby="download">
                   {{ range where .Site.Pages "Section" "contributing" }}
-                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
                   {{ end }}
                   </ul>
                 </li> 
