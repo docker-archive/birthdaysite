@@ -33,8 +33,9 @@ Follow these steps:
 
 	This tells GitHub to notify you of new issues. Depending on your settings,
 	notification go to your GitHub or email inbox. Some of repositories you can watch are:
-
-	<table class="tg">
+	<table class="tg" >
+		<col width="20%">
+		<col width="80%">
 		<tr>
 			<td class="tg-031e"><a href="https://github.com/docker/docker" target="_blank">docker/docker</a></td>
 			<td class="tg-031e">Docker the open-source application container engine</td>
@@ -42,6 +43,12 @@ Follow these steps:
 		<tr>
 			<td class="tg-031e"><a href="https://github.com/docker/machine" target="_blank">docker/machine</a></td>
 			<td class="tg-031e">Software for the easy and quick creation of Docker hosts on your computer, on cloud providers, and inside your own data center.</td>
+		</tr>
+	<tr>
+			<td class="tg-031e"><a href="https://github.com/kitematic/kitematic" target="_blank">kitematic/kitematic</a></td>
+			<td class="tg-031e">Kitematic is a simple application for managing Docker containers on Mac OS X.</td>
+   </tr>
+</td>
 		</tr>
 		<tr>
 			<td class="tg-031e"><a href="https://github.com/docker/swarm" target="_blank">docker/swarm</a></td>
@@ -52,7 +59,7 @@ Follow these steps:
 			<td class="tg-031e">Define and run complex applications using one or many interlinked containers.</td>
 		</tr>
 	</table>
-	&nbsp;
+
 	
 	See <a href="https://github.com/docker" target="_blank">the complete list of
 	Docker repositories</a> on GitHub.
@@ -65,16 +72,6 @@ target="_blank">the triage process</a> to triage an issue.
 
 5. Triage another issue.
 
-
-2. Review the issue ticket and reply politely with an appropriate
-   response based on the situation. You may need to ask for more
-   information, a simplified test case (or a test case at all),
-   duplicate the reported behavior using a provided test case (or
-   reducing one further), or direct the reporter to the right venue for
-   their issue.
-3. Apply the right labels by commenting on the issue. GorBot, our very
-   own robot will review your comment and apply the labels as necessary.
-4. Participate in the discussion as it continues, as necessary.
 
 
 {{< help >}}

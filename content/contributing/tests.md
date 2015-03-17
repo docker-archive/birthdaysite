@@ -6,26 +6,53 @@ linktitle = "Testing"
 +++
 
 
-Why testing is a great way to contribute. 
+Testing is about software quality, performance, reliability, or the usability. We develop and test Docker software before we release but we are human. So, we make mistakes, we get forgetful, or we just don't have enough time to do everything. 
 
-If you are testing Docker, your goal is to ensure that Docker does what it says it does.  Some examples of what testing might ensure:
+Choose to contribute testing if you want to improve Docker software and processes. Testing is a good choice for contributors that have experience software testing, usability testing, or who are otherwise great at spotting problems. 
 
-* Does the docker run command's flags all work
+# What can you contribute to testing
+
+If you are interested in testing code, learn <a href="http://docs.docker.com/project/test-and-docs/" target="_blank">about the testing we do for project and documentation code</a>. If you aren't writing code, you can make other kinds of testing contributions:
+
+* Write a blog about <a href="http://www.appneta.com/blog/automated-testing-with-docker/" target="_blank">how your company uses Docker its test infrastructure</a>.  
+* Take an online usability test about Docker.
+* Test the Docker documentation 
 
 
-# What can you test
+# Test the Docker documentation
+
+Testing documentation is relatively easy:
+
+1.  Find a page in <a href="http://docs.docker.com/" target="_blank">Docker's documentation</a> that contains a procedure or example you want to test.
+
+	You should choose something that has the _potential_ to work on your machine. 
+	For example, <a href="http://docs.docker.com/articles/baseimages/"
+	target="_blank">creating a base image</a> is something anyone with Docker can
+	do. While <a href="https://kitematic.com/docs/managing-volumes/"
+	target="_blank">changing volume directories in Kitematic</a> is something you
+	can only do on a Mac and then only when Kitematic is installed.
+
+2.  Try and follow the procedure or recreate the example.
+
+	What to look for:
+	
+	* Are the steps clearly laid out and identifiable? 
+	* Are the steps in the right order? 
+	* Did you get the results the procedure or example said you would?
+
+4.  If you couldn't complete the procedure or example, file <a href="https://github.com/docker/docker/issues" target="_blank">an issue in the Docker repo</a>. 
 
 
 
-# How to test code
+ 
 
-There are lots of aspects to testing. You need to understand what parts of the Docker project are testable and then how to contribute testing to those parts.
 
-# How to test Docker usability 
 
-Tbd
 
-# How to test the documentation
+
+
+
+
 
 
 
