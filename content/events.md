@@ -24,20 +24,21 @@ conserve oceans.
 ## March 24th
 
 * [**Berlin** @ SoundCloud](http://www.meetup.com/Docker-Berlin/events/220945833/)
-* [**Seattle** @ Surf Incubator](- http://www.meetup.com/Docker-Seattle/events/220937481/)
+* [**Seattle** @ Surf Incubator](http://www.meetup.com/Docker-Seattle/events/220937481/)
 
 ## March 25th
 
-* [**Boston** @ Akamai](-(http://www.meetup.com/Docker-Boston/events/220936081)
+* [**Boston** @ Akamai](http://www.meetup.com/Docker-Boston/events/220936081)
 * [**Denver** @ SendGrid](http://www.meetup.com/Docker-Denver/)
-* [**San Francisco** @ Docker](-(http://www.meetup.com/Docker-meetups/events/220935945/)
+* [**San Francisco** @ Docker](http://www.meetup.com/Docker-meetups/events/220935945/)
+* [**Sydney** @ Optiver](http://www.meetup.com/Sydney-Docker-User-Group/events/221082378/)
 
 ## March 26th
 
 * [**Brisbane** @ RedHat](http://www.meetup.com/Docker-Brisbane-Australia/events/220941621/)
 * [**Chicago** @ Groupon](http://www.meetup.com/Docker-Chicago/events/220936626/)
 * [**Los Angeles** @ Ticketmaster](http://www.meetup.com/Docker-Los-Angeles/events/220936374)
-* [**New York** @ Microsoft](-(http://www.meetup.com/Docker-NewYorkCity/events/220936011/)
+* [**New York** @ Microsoft](http://www.meetup.com/Docker-NewYorkCity/events/220936011/)
 * [**Paris** @ 42](http://www.meetup.com/Docker-Paris/events/220947812/)
 * [**Vancouver** @ Hootsuite](http://www.meetup.com/Docker-vancouver/events/220937956)
 
