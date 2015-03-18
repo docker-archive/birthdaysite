@@ -10,7 +10,7 @@ Testing is about software quality, performance, reliability, or the usability. W
 
 Choose to contribute testing if you want to improve Docker software and processes. Testing is a good choice for contributors that have experience software testing, usability testing, or who are otherwise great at spotting problems. 
 
-# What can you contribute to testing
+# What can you contribute to testing?
 
 If you are interested in testing code, learn <a href="http://docs.docker.com/project/test-and-docs/" target="_blank">about the testing we do for project and documentation code</a>. If you aren't writing code, you can make other kinds of testing contributions:
 

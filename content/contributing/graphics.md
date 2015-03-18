@@ -21,7 +21,7 @@ the a concept more clear. Here’s a list of suggested visual/graphical things y
 * Suggest a better typeface for the <a href="https://blog.docker.com" target="_blank">Docker Blog</a>.
 * Create a <a href="http://goo.gl/s83L3D" target="_blank">Gordon logo</a> in the style of the Docker logo or your own style.  
 * Search the documentation for <a href="http://docs.docker.com/project/make-a-contribution/" target="_blank">existing</a> but <a href="http://docs.docker.com/introduction/understanding-docker/#what-is-dockers-architecture" target="_blank">poorly executed graphics</a> and improve them.  
-* Coming up with alternative themes
+* Design alternative themes for sites.
 
 # How to contribute graphics
 
@@ -40,6 +40,6 @@ the a concept more clear. Here’s a list of suggested visual/graphical things y
 	us the image source.   to us at bd then please add the image (+ source) to the
 	documentation repo. 
 
-3.  Submit the source files and the signed license <a href="HREF" target="_blank">to our birthday forum</a>.
+3.  Submit the source files and completed license <a href="https://dev.dockerproject.com/c/share" target="_blank">on Discourse</a>.
 
 
