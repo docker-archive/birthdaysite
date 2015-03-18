@@ -17,3 +17,6 @@ Explain the attributes of a tutorial.
 # How to write a tutorial
 
 TBD
+
+
+{{< help >}}

@@ -15,3 +15,5 @@ Explain the attributes of a screencast.
 # How to write a screencast
 
 TBD
+
+{{< help >}}
