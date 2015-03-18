@@ -42,7 +42,14 @@ conserve oceans.
 * [**Paris** @ 42](http://www.meetup.com/Docker-Paris/events/220947812/)
 * [**Vancouver** @ Hootsuite](http://www.meetup.com/Docker-vancouver/events/220937956)
 
-# AGENDA 
+# Community Powered Events
+
+## March 23rd
+
+* [**Tel Aviv** @ CA office](http://www.meetup.com/Docker-Tel-Aviv/events/221108613/)
+
+
+# Agenda
 
 * **5:45** - Doors Open
 * **6:00** to **6:30** - Introduction & Presentation on contributing to the Docker Open Source project
@@ -82,7 +89,6 @@ of users. Docker’s logo, Moby Dock, is a blue whale that was contributed and
 selected by its community.  The charitable program starts on March 23 and will
 span a total of five weeks; part of the proceeds will go towards the adoption
 and naming of a female blue whale soon to be known as “Molly Dock.” 
-
 
 Contributions from the “opening week” of the program and follow-on
 contributions over the subsequent four weeks will be calculated and the final
