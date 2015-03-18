@@ -46,9 +46,9 @@ other repositories.
 # Code contribution workflow
 
 Below is the general workflow for contributing Docker code or documentation.
-Experienced open source contributors, may already have what they need use this
-workflow. If you need details or reminders, each step links off to the
-appropriate details in our official project contributors guide.
+If you are an experienced open source contributor you may be familiar with this
+workflow. If you are new or just need reminders, the steps below link to more
+detailed documentation in Docker's project contributors guide.
 
 1. <a href="http://docs.docker.com/project/software-required/"
 target="_blank">Get the software</a> you need.

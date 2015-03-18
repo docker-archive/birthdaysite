@@ -14,34 +14,30 @@ community is helping to make any aspect of using Docker projects better for
 
 # Attend Conferences and Meetups
 
-Sign up for DockerCon....
+Sign up for the <a href="http://www.dockercon.com/" target="_blank">DockerCon
+2015</a> conference.  You can attend or even present a paper!
 
 
-# Speak At Conferences and Meetups
+# Docker Meetups
 
-Submit a call for presentations.. look at lanyard... 
+Where ever you are there is probably a Docker meetup near you.  Come by and meet
+other Dockerphiles!  No meetup near you? Contact us and we will help you start
+one.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=zoYM7vIP5E6k.kG-rbzPrD0WM"
+width="640" height="480"></iframe>
+
+Email us at <mailto:meetup@docker.com> or <a href="https://twitter.com/docker" target="_blank">ping us on twitter</a>.
 
 # Help people in person
 
-You are at an event right now...
+You are at an event right now...anyone look like they need help?  Approach this person and say:
 
-# User Support
+*"You look puzzled, need any help?"*
 
-Working on Q & A is awesome for a number of reasons, one of which is the
-simple act of helping others, and sharing in the camaraderie that comes
-with being part of an open source project. Over time, the nicknames and
-handles of strangers may come to be familiar mentors, mentees, and
-friends.
+Uncomfortable talking to a stranger?  Think about this. Just the one quick question <a
+href="http://blogs.discovermagazine.com/d-brief/2014/07/16/youd-be-happier-if-
+you-talked-to-strangers-more-often" target="_blank">can help you both</a>.  
 
-Users look for help on the [user support forum](https://forum.docker.com)
-and on the #Docker IRC channel on Freenode.
 
--Link to Stack Overflow-
-
-# Contributor Support
-
-Contributors look for help on the [contributor support
-forum](https://dev.dockerproject.org) on the beginning contributor chat
-room on gitter and on the #Docker-dev IRC channel
-on Freenode.
-
+{{< help >}}
