@@ -40,6 +40,6 @@ the a concept more clear. Here’s a list of suggested visual/graphical things y
 	us the image source.   to us at bd then please add the image (+ source) to the
 	documentation repo. 
 
-3.  Submit the source files and the signed license to our birthday forum.
+3.  Submit the source files and the signed license <a href="HREF" target="_blank">to our birthday forum</a>.
 
 
