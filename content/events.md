@@ -20,6 +20,7 @@ conserve oceans.
 * [**London** @ Skillsmatter](http://www.meetup.com/Docker-London/events/220933336/)
 * [**Mountain View** @ Box](http://www.meetup.com/Docker-Mountain-View/events/220936150)
 * [**Portland** @ New Relic](http://www.meetup.com/Docker-Portland-OR/events/220936451)
+* [**Tel Aviv** @ CA office](http://www.meetup.com/Docker-Tel-Aviv/events/221108613/) \*
 
 ## March 24th
 
@@ -42,12 +43,12 @@ conserve oceans.
 * [**Paris** @ 42](http://www.meetup.com/Docker-Paris/events/220947812/)
 * [**Vancouver** @ Hootsuite](http://www.meetup.com/Docker-vancouver/events/220937956)
 
-# Community Powered Events
+## March 31st
 
-## March 23rd
+* [**Miami** @ Choose Digital](http://www.meetup.com/Docker-Miami/events/221200897/) \*
 
-* [**Tel Aviv** @ CA office](http://www.meetup.com/Docker-Tel-Aviv/events/221108613/)
 
+\* **Community Powered Events**
 
 # Agenda
 
