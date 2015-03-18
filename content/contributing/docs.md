@@ -6,46 +6,25 @@ linktitle = "Documentation"
 
 +++
 
-Documentation is an integral part of any open source project.
-Documentation is the common thread that unifies all users, from helping
-new users get up to speed to offering detailed explanations of features
-for seasoned developers.
+Documentation is an integral part of any open source project.  It supplies the
+common thread that unifies all users, from helping new users get up to speed to
+offering detailed explanations of features for seasoned developers.
 
-# Getting Involved
+Contibute to documentation if you like to analyze how something works and then
+explain it to others.  
 
-If you'd like to help us improve the documentation of any of Docker's
-projects, we would love to have your contributions. All of our
-documentation sites are on GitHub inside of each project. Before you do
-anything else, you ought to sign up for a free GitHub account if you
-don't have one already. If you're comfortable with git and GitHub, you
-can dive right in by forking a repo, making some changes, and sending a
-pull request. 
+# What can you contribute to documentation?
 
-If not, here are some suggestions for getting involved:
+f you are interested in writing documentation, learn <a
+href="http://docs.docker.com/project" target="_blank">about 
+how to contribute to the Docker writing documentation source</a>. If you aren't writing
+documentation, you can make other kinds of documentation contributions:
 
-# Report an Issue
+* Report an issue or request new documentation.
+* Copy edit documentation in incoming pull requests.
+* Test the existing documentation.
 
-Perhaps the easiest way to help is to report an issue or problem about
-the current documentation. We use GitHub's issue tracker for all of our
-documentation sites. Just head on over to one of the following issue
-lists to see if your issue has already been reported, and if it hasn't,
-give us a detailed rundown of the issue.
-
-# Write or Edit Content
-
-If you actually want to make the fixes and improvements, then you'll
-need to fork the repositories you'd like to work on. Once you've made
-changes you'd like reviewed for integration, submit a pull request.
-However, we recommend that you file issues for new "features" and
-significant changes before actually getting to work. For more
-information on maintaining your fork and strategies on committing, see
-the Commits and Pull Requests guide.
-
-All of the documentation sites use markdown for their documentation.
-Familiarizing yourself with Markdown is a good idea in general, and it
-would certainly facilitate your contributions to our sites.
-
-# Documentation Contributing Workflow
+# Copy edit documentation in a pull request
 
 1. Search for an issue
 2. Fork
