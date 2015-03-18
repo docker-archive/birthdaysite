@@ -5,41 +5,41 @@ linktitle = "Graphics"
 
 +++
 
-One area where open source projects traditionally lack is in the
-visual and graphical expertise. Browsing github will demonstrate that
-documentation and projects sorely lack good logos, illustrations and
-other graphics help. If you have graphical talents, open source needs
-them!
+One area where open source projects traditionally lack is in the visual and
+graphical expertise. Browse GitHub, you'll see many projects suffering from lame logos,
+iffy illustrations, and sad CSS. If you have graphical talents, open
+source needs them and so do we!
+
+**Fact**: Docker's own Moby Dock logo was contributed by a member of our community.
 
 # What is a graphic
 
-A graphic can be anything from a mascot for the project (like our Moby
-Dock, contributed by a member of our community), or a diagram to make
-the a concept more clear.
+A graphic can be anything from a mascot for the project or a diagram to make
+the a concept more clear. Here’s a list of suggested visual/graphical things you can tackle:
 
-Here’s a list of suggestions:
-
-* Finding new ways to improve the user experience
-* Improving copy
-* Choosing a better typeface
-* Creating a logo
-* Coming up with a new design/layout for components or even the entire application/site
+* Use Illustrator, Photoshop, or similar to suggest a redesign of a Docker UI.
+* Suggest a better typeface for the <a href="https://blog.docker.com" target="_blank">Docker Blog</a>.
+* Create a <a href="http://goo.gl/s83L3D" target="_blank">Gordon logo</a> in the style of the Docker logo or your own style.  
+* Search the documentation for <a href="http://docs.docker.com/project/make-a-contribution/" target="_blank">existing</a> but <a href="http://docs.docker.com/introduction/understanding-docker/#what-is-dockers-architecture" target="_blank">poorly executed graphics</a> and improve them.  
 * Coming up with alternative themes
-* Critiquing the layout / flow
+
+# How to contribute graphics
 
 
-# How to write a graphic
+1. Create the graphic or other artwork.
 
-Illustrations can be created in any application but should be released
-along with the source file for that image. This could be a PSD, a AI, or
-SVG file.
+	You can create an illustrations in any application. The source file for that
+	image could be a PSD, a AI, or SVG file.  Of course, you also might just
+	submit a CSS file if it fits the task you took on.
 
-If the image is appropriate to place in a specific documentation page
-then please add the image (+ source) to the documentation repo. 
+2. <a href="License the output" target="_blank">License the output</a> to Docker. 
 
-If a graphic doesn’t have a clear home then please publish it under a
-open source license or a creative commons license so that we can use it
-in the project. Please post on the contribution forum a link to your
-work so the entire community can benefit from it.
+3.  Optionally, write `README.txt` file to accompany your work.
+
+	If the image is appropriate to place in a specific documentation page, email
+	us the image source.   to us at bd then please add the image (+ source) to the
+	documentation repo. 
+
+3.  Submit the source files and the signed license to our birthday forum.
 
 
