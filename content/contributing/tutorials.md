@@ -12,6 +12,8 @@ Why a tutorial is a great way to contribute.
 
 Explain the attributes of a tutorial.
 
+-Steve to provide Examples here-
+
 # How to write a tutorial
 
 TBD
