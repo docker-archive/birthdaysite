@@ -27,11 +27,16 @@ contributions:
 
 Before you try this task, make sure you have a <a href="https://github.com" target="_blank">Github account</a>.
 
-1. Search for a documentation pull request in one of our repos:
+1.  Encounter an issue in our documentation.
+
+	Your issue could be a poor explanation, a missing step in a procedure, or a
+	feature you want &mdash; a new tutorial for example.
+
+2.  Go to the appropriate repo.
 	
 	You can report issues with any Docker project:
 	
-	* <a href="https://github.com/docker/docker/issues" target="_blank">Docker</a>
+	* <a href="http://goo.gl/HZ25kq" target="_blank">Docker</a>
 	* <a href="https://github.com/docker/machine/issues" target="_blank">Machine</a>
 	* <a href="https://github.com/kitematic/kitematic/issues" target="_blank">Kitematic</a>
 	* <a href="https://github.com/docker/swarm/users" target="_blank">Swarm</a>
@@ -40,18 +45,20 @@ Before you try this task, make sure you have a <a href="https://github.com" targ
 	See <a href="https://github.com/docker" target="_blank">the complete list of
 	Docker repositories</a> on GitHub.
 	
-2.  Open the pull request.
+3.  Click the **New issue** button.
 
-3.  Click the **Files Changed** tab.
+4.  Give your issue a **Title**.
 
-4.  Look for changed files with the `.md` extension.
+5.  Leave a comment describing your issue.
 
-5.  Review the the change.
+	If you found the problem in existing documentation, add the page's URL to your
+	description.
+	
 
-# Write or update existing documentation
+# Write new or update existing documentation
 
 Writing documentation requires you to fork the Docker repo and write source
 using Markdown code.  We have a <a href="http://docs.docker.com/project"
-target="_blank">guide that walks your through the entire process</a>. 
+target="_blank">guide that walks you through the entire process</a>. 
 
 {{< help >}}

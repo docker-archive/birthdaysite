@@ -80,8 +80,9 @@ issue</a>.
 5. <a href="http://docs.docker.com/project/create-pr/" target="_blank">Create a
 pull request</a>.
 
-6. <a href="http://docs.docker.com/project/review-pr/" target="_blank">Work
-through the review</a> till a successful merge.
+6. <a href="http://docs.docker.com/project/review-pr/"
+target="_blank">Participate in the pull request review</a> till a successful
+merge.
 
 
 
