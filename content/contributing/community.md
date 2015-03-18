@@ -5,11 +5,11 @@ linktitle = "Community"
 
 +++
 
-**In a sense, each of the different ways of contributing to Docker are also
-contributing to the community**.  A community is formed by being with and
-talking to people either in person or electronically through email, IM, or other
-means. Contributing to community is helping to make any aspect of using Docker
-projects better for *other* people.
+**In a sense, each method of contributing to Docker is also contributing to the
+community**.  A community is formed by being with and talking to people either
+in person or electronically through email, IM, or other means. Contributing to
+community is helping to make any aspect of using Docker projects better for
+*other* people.
 
 
 # Attend Conferences and Meetups
