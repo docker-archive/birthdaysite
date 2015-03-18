@@ -44,7 +44,8 @@ Mentors will:
 * Mentor with code contributions
 * Help marine wildlife (a donation will be made for every mentor)
 * (Also) enjoy food and drinks
- 
+
+ If you are interested in mentoring then please RSVP on the meetup page and sign up to be a mentor at http://goo.gl/forms/TAFVpnh3K8
 
 # What
 

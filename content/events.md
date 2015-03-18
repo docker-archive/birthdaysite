@@ -11,6 +11,8 @@ documentation, tutorials, videos, and mentoring. Each contribution to the
 Docker Project will also support the [Oceanic Society](http://www.oceanicsociety.org) and its mission to
 conserve oceans.
 
+If you are interested in mentoring then please RSVP on the meetup page and sign up to be a mentor at http://goo.gl/forms/TAFVpnh3K8
+
 # Events
 
 ## March 23rd
