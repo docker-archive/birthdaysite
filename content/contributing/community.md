@@ -5,13 +5,11 @@ linktitle = "Community"
 
 +++
 
-*In a sense, each of the different ways of getting involved that we
-detail on this site are all ways of contributing to the Docker
-community, which we define quite liberally: helping to make any aspect
-of using Docker projects better for other people. This, of
-course, includes things like filing and fixing bugs, but the discussion
-on this page focuses on just some of the ways you can help have an
-impact on the people part of that definition!*
+**In a sense, each of the different ways of contributing to Docker are also
+contributing to the community**.  A community is formed by being with and
+talking to people either in person or electronically through email, IM, or other
+means. Contributing to community is helping to make any aspect of using Docker
+projects better for *other* people.
 
 
 # Attend Conferences and Meetups
