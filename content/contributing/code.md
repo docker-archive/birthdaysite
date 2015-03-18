@@ -75,10 +75,20 @@ issue</a>.
 	If you change or add code or docs to a project, you should test your changes
 	as you work. This page explains <a
 	href="http://docs.docker.com/project/test-and-docs/" target="_blank">how to
-	test in our development environment</a>.
+	test in our development environment</a>.  
+	
+	Also, remember to always **sign your commits** as you work! If you don't <a
+	href="https://twitter.com/gordontheturtle" target="_blank">Gordon</a> will get
+	you!
 
 5. <a href="http://docs.docker.com/project/create-pr/" target="_blank">Create a
 pull request</a>.
+
+	If you make a change to fix an issue, add reference to the issue in the pull
+	request. Here is a perfect example:
+	
+	![Sign commits and issues](/images/bonus.png)
+	
 
 6. <a href="http://docs.docker.com/project/review-pr/"
 target="_blank">Participate in the pull request review</a> till a successful
