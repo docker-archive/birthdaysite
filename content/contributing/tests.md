@@ -12,8 +12,6 @@ Choose to contribute testing if you want to improve Docker software and processe
 
 # What can you contribute to testing?
 
-If you are interested in testing code, learn <a href="http://docs.docker.com/project/test-and-docs/" target="_blank">about the testing we do for project and documentation code</a>. If you aren't writing code, you can make other kinds of testing contributions:
-
 * Write a blog about <a href="http://www.appneta.com/blog/automated-testing-with-docker/" target="_blank">how your company uses Docker its test infrastructure</a>.  
 * Take an online usability test about Docker.
 * Test the Docker documentation 
@@ -41,6 +39,13 @@ Testing documentation is relatively easy:
 	* Did you get the results the procedure or example said you would?
 
 4.  If you couldn't complete the procedure or example, file <a href="https://github.com/docker/docker/issues" target="_blank">an issue in the Docker repo</a>. 
+
+# Test code in the Docker
+
+If you are interested in writing or fixing test code for the Docker project, learn  about  <a href="http://docs.docker.com/project/test-and-docs/" target="_blank">our test infrastructure</a>. 
+
+{{< help >}}
+
 
 
 
