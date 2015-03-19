@@ -5,19 +5,19 @@ linktitle = "Organize our issues"
 
 +++
 
-Help us organize our work by triaging. Triage is the process of reviewing
-incoming issue tickets, gathering more information about the situation, and
-verifying whether or not the issue is valid.
+The Docker projects use GitHub issues to record issues and feature requests that
+come in from contributors.  Help us organize our work by triaging. Triage is the
+process of reviewing incoming issue tickets, gathering more information about
+the issue, and verifying whether or not the issue is valid.
 
-You should triage if you want to discover the Docker features other contributors
-think is important. Triage is great for contributors that have an interest
+You should triage if you want to discover which Docker features other contributors
+think are important. Triage is a great choice if you have an interest
 or experience in software product management or project management.
 
 
-# What do you triage?
+# What kind of issues can I triage?
 
-The Docker projects use GitHub issues to record issues and feature requests that
-come in from contributors. Contributors create new issues if they want to:
+Docker users and contributors create new issues if they want to:
 
 * report a problem they had with Docker software
 * request a new feature 
@@ -64,7 +64,7 @@ Follow these steps:
 	See <a href="https://github.com/docker" target="_blank">the complete list of
 	Docker repositories</a> on GitHub.
 	
-3. Open an issue.
+3. Choose an issue.
 
 4. Use <a
 href="https://github.com/docker/docker/blob/master/project/ISSUE-TRIAGE.md"

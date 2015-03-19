@@ -6,7 +6,7 @@ linktitle = "Community"
 +++
 
 **In a sense, each method of contributing to Docker is also contributing to the
-community**.  A community is formed by being with and talking to people either
+community**.  A community comes from being with and talking to people either
 in person or electronically through email, IM, or other means. Contributing to
 community is helping to make any aspect of using Docker projects better for
 *other* people.
@@ -20,7 +20,7 @@ Sign up for the <a href="http://www.dockercon.com/" target="_blank">DockerCon
 
 # Docker Meetups
 
-Where ever you are there is probably a Docker meetup near you.  Come by and meet
+Wherever you are there is probably a Docker meetup near you.  Come by and meet
 other Dockerphiles!  No meetup near you? Contact us and we will help you start
 one.
 

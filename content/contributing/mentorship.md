@@ -8,23 +8,22 @@ title = "Mentoring Contributors & Users"
 With millions of Docker users all over the world, there's always someone who
 needs a helping hand. Like many open source projects, the Docker project relies
 on community support channels like forums, IRC, and StackOverflow.  You should
-contribute mentoring if you have good knowledge:
+contribute mentoring if you have good knowledge of:
 
 * how open source projects run
 * using Docker in some particular domain (for example, testing or deployment)
-* specific knowledge about Git, Go, or other aspects of coding
-* experience with GitHub, IRC, or other common tools
+* using Git, Go, GitHub, IRC, or other common tools
 
 Also, choose mentoring if you like to be happy. Studies show that <a
 href="http://goo.gl/HSz8UT" target="_blank">helping others</a> is a great way to
-give your own mood a boost.
+boost your own well being.
 
 
 # Where to help
 
 If you are reading this at a Docker birthday event, look around you.  Is there
-someone who looks puzzled or frustrated? Smile at this person and say "Hey, can
-I help you with something?"   Below are some other places to help:
+someone who looks puzzled or frustrated? Smile at this person and say *"Hey, can
+I help you with something?"*  The next few sections list some other places to help.
 
 ## Docker users
 
@@ -41,8 +40,8 @@ target="_blank">StackOverflow</a>
 ## Docker contributors
 
 Docker contributors are people like you contributing to Docker open source. 
-Contributors may need help with IRC, with Go programming, Markdown, or other
-aspects of contributing.  To help Docker contributors:
+Contributors may need help with IRC, Go programming, Markdown, or with other
+aspects of contributing. To help Docker contributors:
 
 * the <a href="https://gitter.im/docker/docker" target="_blank">Docker Gitter IM
 </a> room 
