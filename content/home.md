@@ -15,7 +15,7 @@ source.
 
 Contributions to the project at these events and in the weeks following will
 count toward our donation to the [Oceanic Society](http://www.oceanicsociety.org) and its mission to conserve
-the habitat of Moby Dock and blue whales across the planet. 
+the habitat of Moby Dock and blue whales across the planet.
 
 # Who
 
@@ -24,7 +24,7 @@ people who just want to help out with a great cause to attend regardless of
 technical experience. We will have Docker core team members at each event as
 well as experts from both the Docker and Go communities to mentor and teach
 people how to write Go (the language Docker is written in) and contribute to
-Docker. 
+Docker.
 
 Participants will:
 
@@ -34,14 +34,13 @@ Participants will:
 * Contribute regardless of their technical experience
 * Help marine wildlife (a donation will be made for every contribution)
 * Enjoy food and drinks
- 
 
 Mentors will:
 
 * Teach people how to contribute to open source
 * Introduce participants to Go
-* Help with git
-* Mentor with code contributions
+* Help with Git
+* Mentor code contributors
 * Help marine wildlife (a donation will be made for every mentor)
 * (Also) enjoy food and drinks
 
@@ -62,5 +61,8 @@ open-source-a-thon](/online).
 
 This event is thanks to the many wonderful people throughout the world who
 contribute their time and talents to open source. This includes our awesome
-meetup organizers who, without their efforts this would not be possible. 
+meetup organizers who, without their efforts this would not be possible.
 
+# Sponsors
+
+IBM
