@@ -5,15 +5,15 @@ linktitle = "Graphics"
 
 +++
 
-One area where open source projects traditionally lack is in the visual and
-graphical expertise. Browse GitHub, you'll see many projects suffering from lame
-logos, iffy illustrations, and sad CSS. If you have graphical talents, open
-source needs them and so do we!
+Open source projects traditionally lack visual and graphical expertise. Browse
+GitHub, you'll see many projects suffering from lame logos, iffy illustrations,
+and sad CSS. If you have graphical talents, open source needs them and so do we!
 
 **Fact**: Docker's own Moby Dock logo was contributed by a member of our
 community.
 
-# What is a graphic
+
+# What kind of graphic?
 
 A graphic can be anything from a mascot for the project or a diagram to make the
 a concept more clear. Here’s a list of suggested visual/graphical things you can
@@ -36,8 +36,8 @@ architecture" target="_blank">poorly executed graphics</a> and improve them.
 
 1. Create the graphic or other artwork.
 
-	You can create an illustrations in any application. The source file for that
-	image could be a PSD, a AI, or SVG file.  Of course, you also might just
+	You can create an illustration in any application. The source file for the
+	artwork could be a PSD, an AI, or a SVG file.  Of course, you also might just
 	submit a CSS file if it fits the task you took on.
 
 2. <a href="License the output" target="_blank">License the output</a> to Docker. 
@@ -45,11 +45,11 @@ architecture" target="_blank">poorly executed graphics</a> and improve them.
 3.  Optionally, write a `README.txt` file to explain your work.
 
 	For example, if the image should go into a specific point in the
-	documentation, explain where the image goes and provide the page URL in your
+	documentation, explain where. Also, include the document's URL in your
 	README.  
 
-3.  Submit the source files and completed license <a
-href="https://dev.dockerproject.com/c/share" target="_blank">on Discourse</a>.
+3.  Submit the source file(s), `README.txt`, and completed license <a
+href="https://dev.dockerproject.com/c/share" target="_blank">on our Discourse share</a>.
 
 {{< help >}}
 

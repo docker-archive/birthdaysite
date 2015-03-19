@@ -40,8 +40,8 @@ Docker repositories</a> on GitHub.
 
 If you want to contribute to the `docker/docker` repository you should be
 familiar with or a invested in learning Go or the Markdown language.  If you
-know other languages or have an interest in what they cover, investigate our
-other repositories.
+know other languages, investigate our
+other repositories&mdash;not all of them run on Go.
 
 # Code contribution workflow
 
