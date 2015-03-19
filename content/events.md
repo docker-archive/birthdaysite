@@ -11,6 +11,8 @@ documentation, tutorials, videos, and mentoring. Each contribution to the
 Docker Project will also support the [Oceanic Society](http://www.oceanicsociety.org) and its mission to
 conserve oceans.
 
+If you are interested in mentoring then please RSVP on the meetup page and sign up to be a mentor at http://goo.gl/forms/TAFVpnh3K8
+
 # Events
 
 ## March 23rd
@@ -20,6 +22,7 @@ conserve oceans.
 * [**London** @ Skillsmatter](http://www.meetup.com/Docker-London/events/220933336/)
 * [**Mountain View** @ Box](http://www.meetup.com/Docker-Mountain-View/events/220936150)
 * [**Portland** @ New Relic](http://www.meetup.com/Docker-Portland-OR/events/220936451)
+* [**Tel Aviv** @ CA office](http://www.meetup.com/Docker-Tel-Aviv/events/221108613/) \*
 
 ## March 24th
 
@@ -42,7 +45,14 @@ conserve oceans.
 * [**Paris** @ 42](http://www.meetup.com/Docker-Paris/events/220947812/)
 * [**Vancouver** @ Hootsuite](http://www.meetup.com/Docker-vancouver/events/220937956)
 
-# AGENDA 
+## March 31st
+
+* [**Miami** @ Choose Digital](http://www.meetup.com/Docker-Miami/events/221200897/) \*
+
+
+\* **Community Powered Events**
+
+# Agenda
 
 * **5:45** - Doors Open
 * **6:00** to **6:30** - Introduction & Presentation on contributing to the Docker Open Source project
@@ -82,7 +92,6 @@ of users. Docker’s logo, Moby Dock, is a blue whale that was contributed and
 selected by its community.  The charitable program starts on March 23 and will
 span a total of five weeks; part of the proceeds will go towards the adoption
 and naming of a female blue whale soon to be known as “Molly Dock.” 
-
 
 Contributions from the “opening week” of the program and follow-on
 contributions over the subsequent four weeks will be calculated and the final

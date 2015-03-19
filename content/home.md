@@ -44,7 +44,8 @@ Mentors will:
 * Mentor with code contributions
 * Help marine wildlife (a donation will be made for every mentor)
 * (Also) enjoy food and drinks
- 
+
+ If you are interested in mentoring then please RSVP on the meetup page and sign up to be a mentor at http://goo.gl/forms/TAFVpnh3K8
 
 # What
 
@@ -62,4 +63,10 @@ open-source-a-thon](/online).
 This event is thanks to the many wonderful people throughout the world who
 contribute their time and talents to open source. This includes our awesome
 meetup organizers who, without their efforts this would not be possible. 
+
+# Sponsors
+
+IBM
+
+
 
