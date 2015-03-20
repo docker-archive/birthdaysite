@@ -24,7 +24,7 @@ Before you contribute, here are some things you should do:
 * Learn a little about what Docker is.
 	* [Video review of Docker fundamentals](https://www.youtube.com/watch?v=zRLyovWi1gs) (9 minutes)
 	* [Other good Docker resources](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
-* Test your knowledge 
+* Test your knowledge.
 	* [Basic Dockerfile test](https://docs.docker.com/userguide/level1/)
 	* [Advanced Dockerfile test](https://docs.docker.com/userguide/level2/)
 *  [Install Docker](http://docs.docker.com/introduction/#installation) on your machine.
