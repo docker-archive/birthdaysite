@@ -4,13 +4,13 @@ title = "Contributing Tutorials"
 linktitle = "Tutorials"
 +++
 
-A tutorial is a step-by-step guide for accomplishing some Docker task. Digital
-Ocean produces a lot of <a href="http://goo.gl/mHq6bt" target="_blank">high
-quality tutorials</a> for development and sysadmin tasks.
+A tutorial is a step-by-step guide for accomplishing some Docker task. For
+example, Digital Ocean produces a lot of <a href="http://goo.gl/mHq6bt"
+target="_blank">high quality tutorials</a> for development and sysadmin tasks.
 
-Contribute a tutorial if you accomplished an difficult or interesting Docker
+Contribute a tutorial if you accomplished a difficult or interesting Docker
 task&mdash;document it for yourself and others!  Choose this task if you don't
-want to leran Git or GitHun. You can write a tutorial in your own
+want to learn Git or GitHub. You can write a tutorial in your own
 blog space or in your favorite documentation editor.
 
 
@@ -19,7 +19,7 @@ blog space or in your favorite documentation editor.
 * Walks a user through a real-world example.
 * Requires a user to complete one or more procedures.
 * A procedure has one or more ordered steps (1, 2, 3...).
-* Most every step has an expected "result"; readers' check their work.
+* Most every step has an expected "result"; so readers can check their work.
 
 ![Example](/images/tutorials.png)
 
