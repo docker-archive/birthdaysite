@@ -190,7 +190,9 @@ Always rebase and squash your commits before making a pull request.
 6. Participate in the PR review.
 
 
-## Publish the site (site admins)
+## Publish the site 
+
+This is for site owners:
 
 1. Get the keys from @spf13 or @moxiegirl or Jess.
 
