@@ -3,7 +3,9 @@ date = "2015-03-10T13:16:52-04:00"
 title = "Home"
 +++
 
-![Docker Party](/images/2-years.png)
+
+# ![Docker Party](/images/2-years.png)
+
 
 During the week of March 23rd, the docker community will be hosting [over a
 dozen open-source-a-thon parties](/events) around the world. At these parties
@@ -66,7 +68,8 @@ meetup organizers who, without their efforts this would not be possible.
 
 # Sponsors
 
-IBM
+![Sponsors](/images/sponsors.png)
+
 
 
 
