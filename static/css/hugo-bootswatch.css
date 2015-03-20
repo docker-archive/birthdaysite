@@ -10,6 +10,15 @@ footer{
     padding-top:50px;
 }
 
+table {
+	border-collapse: separate;
+	border-spacing: 10px; 
+}
+
+h1 {
+	padding-top: 35px;
+}
+
 html {
     background-image: radial-gradient(50% 97%, #315780 52%, #1e354e 98%);
 }
@@ -26,8 +35,9 @@ p, a, h1, h2, h3, h4, h5, h6, ul,ol, li {
     color: white;
 }
 
-p {
-    padding-bottom: 1em;
+p,ul {
+    padding-bottom: .5em;
+    line-height: 1.25;
 }
 
 .dropdown-menu > li > a{
