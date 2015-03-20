@@ -17,18 +17,21 @@ Open source projects depend on a lot more than just code to be successful.
 Proper documentation, testing, training, publicity, support and organization are
 all critical.
 
-# New to Docker?
+# New to Docker? Before you arrive at an event...
 
-Before you contribute, here are some things you should do:
+If you have time, here are some things you can do get a head start before an event:
 
 * Learn a little about what Docker is.
-	* [Video review of Docker fundamentals](https://www.youtube.com/watch?v=zRLyovWi1gs) (9 minutes)
+	* [Video review of Docker
+	fundamentals](https://www.youtube.com/watch?v=zRLyovWi1gs) (9 minutes)
 	* [Other good Docker resources](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
 * Test your knowledge.
 	* [Basic Dockerfile test](https://docs.docker.com/userguide/level1/)
 	* [Advanced Dockerfile test](https://docs.docker.com/userguide/level2/)
 *  [Install Docker](http://docs.docker.com/introduction/#installation) on your machine.
-*  Get a free [GitHub account](https://github.com).
+* Get a free [GitHub account](https://github.com).
+* Sure you want to contribute code or docs? Work through the [project
+contributors guide](http://docs.docker.com/project/who-written-for/).
 
 
 # Contributing Guides
