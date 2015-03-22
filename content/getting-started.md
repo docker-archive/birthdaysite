@@ -2,7 +2,7 @@
 date = "2015-03-10T21:23:17-04:00"
 title = "Getting Started Contributing"
 linktitle = "Getting Started"
-aliases = [ "getting-started" ]
+aliases = [ "overview" ]
 weight = "5"
 
 +++
