@@ -65,7 +65,7 @@ Writing documentation requires you to fork the Docker repo and write source
 using Markdown code.  We have a <a href="http://docs.docker.com/project">guide
 that walks you through the entire process</a>.
 
-You can also check our list of <a href="http://goo.gl/BqbsS4"
-target="_blank">open writing issues</a> for ideas.
+You can check our list of <a href="http://goo.gl/eCfY69"
+target="_blank">open writing issues</a> for ideas of what to write.  
 
 {{< help >}}

@@ -41,7 +41,7 @@ blog space or in your favorite documentation editor.
 	Can't come up with something? Leverage your knowledge of one product to try
 	something new on another. Using Docker Swarm you should be able to take a task
 	you can do one Docker host and do it across several hosts all at once. You can
-	also check our list of <a href="http://goo.gl/BqbsS4" target="_blank">open
+	also check our list of <a href="http://goo.gl/eCfY69" target="_blank">open
 	writing issues</a> for ideas.
   	
 3. Write up your tutorial.
