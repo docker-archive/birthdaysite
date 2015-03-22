@@ -64,11 +64,26 @@ Follow these steps:
 	See <a href="https://github.com/docker" target="_blank">the complete list of
 	Docker repositories</a> on GitHub.
 	
-3. Choose an issue.
+3. Choose an issue from the <a
+href="https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+-label%
+3Akind%2Fproposal+-label%3Akind%2Fenhancement+-label%3Akind%2Fbug+-label%3Akind%
+2Fcleanup+-label%3Akind%2Fgraphics+-label%3Akind%2Fwriting+-label%3Akind%
+2Fsecurity+-label%3Akind%2Fquestion+-label%3Akind%2Fimprovement+-label%3Akind%
+2Ffeature" target="_blank">list of untriaged issues</a>.
 
-4. Use <a
+4. Follow the <a
 href="https://github.com/docker/docker/blob/master/project/ISSUE-TRIAGE.md"
-target="_blank">the triage process</a> to triage an issue. 
+target="_blank">the triage process</a> to triage the issue. 
+
+	The triage process asks you to add both a `kind/` and a `exp/` label to each
+	issue. Because you are not a Docker maintainer, you add these through comments.
+	Simply add a `+label` keyword to an issue comment: 
+	
+	![Example](/images/triage-label.png)
+	
+	For example, the `+exp/beginner` and `+kind/writing` labels would triage an issue as
+	beginner writing task. For descriptions of valid labels, see the <a
+href="https://github.com/docker/docker/blob/master/project/ISSUE-TRIAGE.md">the triage process</a> 
 
 5. Triage another issue.
 
