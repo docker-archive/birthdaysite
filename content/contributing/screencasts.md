@@ -29,9 +29,9 @@ permission!)
 
 	You might want to search in Youtube or <a href="https://vimeo.com/tag:docker"
 	target="_blank">Vimeo</a> for Docker and see what other people have already
-	done. Then, choose something different or update something outdated.  You
-	could even look through the Docker documentation and pick something to
-	showcase "visually."
+	done. Then, choose something different or update something outdated. You
+	could also choose to do a screencast that <a href="http://goo.gl/Nzat9v"
+	target="_blank">depicts a new enhancement</a>.
 
 2.  If you don't have any, get some screencast software.
 
