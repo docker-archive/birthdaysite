@@ -19,13 +19,17 @@ If you don't want to write, you can make other kinds of documentation
 contributions:
 
 * Report an issue or request new documentation.  
-* <a href="/contributing/tests/#test-the-docker-documentation" target="_blank">Test</a> the existing documentation.
-* <a href="/contributing/tests/#write-new-or-update-existing-documentation">Write new or update existing documentation</a>.
+* <a href="/contributing/tests/#test-the-docker-documentation"
+target="_blank">Test</a> the existing documentation.
+* <a
+href="/contributing/tests/#write-new-or-update-existing-documentation">Write new
+or update existing documentation</a>.
 
 
 # Report a documentation issue
 
-Before you try this task, make sure you have a <a href="https://github.com" target="_blank">Github account</a>.
+Before you try this task, make sure you have a <a href="https://github.com"
+target="_blank">Github account</a>.
 
 1.  Encounter an issue in our documentation.
 
@@ -58,6 +62,10 @@ Before you try this task, make sure you have a <a href="https://github.com" targ
 # Write new or update existing documentation
 
 Writing documentation requires you to fork the Docker repo and write source
-using Markdown code.  We have a <a href="http://docs.docker.com/project">guide that walks you through the entire process</a>. 
+using Markdown code.  We have a <a href="http://docs.docker.com/project">guide
+that walks you through the entire process</a>.
+
+You can also check our list of <a href="http://goo.gl/BqbsS4"
+target="_blank">open writing issues</a> for ideas.
 
 {{< help >}}

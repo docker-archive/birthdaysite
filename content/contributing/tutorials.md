@@ -39,10 +39,11 @@ blog space or in your favorite documentation editor.
 2. Pick a tutorial topic.
 
 	Can't come up with something? Leverage your knowledge of one product to try
-	something new on another. Using Docker Swarm you should be able to take a
-	task you can do one Docker host and do it across several hosts all at once.
-	Write a tutorial that leads 
-	
+	something new on another. Using Docker Swarm you should be able to take a task
+	you can do one Docker host and do it across several hosts all at once. You can
+	also check our list of <a href="http://goo.gl/BqbsS4" target="_blank">open
+	writing issues</a> for ideas.
+  	
 3. Write up your tutorial.
 
 	You can do this on a blog, in Markdown, or even in your favorite Document editor.

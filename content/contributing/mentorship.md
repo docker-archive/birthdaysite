@@ -36,6 +36,9 @@ target="_blank">Docker-user</a> Google group
 *  <a href="http://stackoverflow.com/search?tab=newest&q=docker"
 target="_blank">StackOverflow</a>
 
+You can also check the <a href="http://goo.gl/1X3AbP" target="_blank">list of
+open user issues</a> on the Docker project.
+
       
 ## Docker contributors
 
