@@ -68,8 +68,13 @@ target="_blank">Learn to work with the Docker development container</a>.
 	Docker developers run `docker` in `docker`.  If you are a geek,
 	this is a pretty cool experience.
 4. <a href="http://docs.docker.com/project/find-an-issue/"
-target="_blank">Find</a> and then <a
-href="http://docs.docker.com/project/work-issue/" target="_blank">work on an
+target="_blank">Claim an issue</a> to work on.
+
+	We created a filter listing <a href="http://goo.gl/Hsp2mk" target="_blank">all open
+	and unclaimed issues</a> for Docker. 
+
+5. <a
+href="http://docs.docker.com/project/work-issue/" target="_blank">Work on the
 issue</a>.
 
 	If you change or add code or docs to a project, you should test your changes
@@ -81,7 +86,7 @@ issue</a>.
 	href="https://twitter.com/gordontheturtle" target="_blank">Gordon</a> will get
 	you!
 
-5. <a href="http://docs.docker.com/project/create-pr/" target="_blank">Create a
+6. <a href="http://docs.docker.com/project/create-pr/" target="_blank">Create a
 pull request</a>.
 
 	If you make a change to fix an issue, add reference to the issue in the pull
@@ -90,7 +95,7 @@ pull request</a>.
 	![Sign commits and issues](/images/bonus.png)
 	
 
-6. <a href="http://docs.docker.com/project/review-pr/"
+7. <a href="http://docs.docker.com/project/review-pr/"
 target="_blank">Participate in the pull request review</a> till a successful
 merge.
 

@@ -39,5 +39,8 @@ Uncomfortable talking to a stranger?  Think about this. Just the one quick quest
 href="http://blogs.discovermagazine.com/d-brief/2014/07/16/youd-be-happier-if-
 you-talked-to-strangers-more-often" target="_blank">can help you both</a>.  
 
+You can also find the users asking for help with <a href="http://goo.gl/aTs1XN"
+target="_blank">issues</a> or <a href="http://goo.gl/rCt6Qx"
+target="_blank">docs</a> in our project.
 
 {{< help >}}

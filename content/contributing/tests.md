@@ -44,7 +44,7 @@ Testing documentation is relatively easy:
 
 If you are interested in writing or fixing test code for the Docker project, learn  about  <a href="http://docs.docker.com/project/test-and-docs/" target="_blank">our test infrastructure</a>.
 
-View <a href="http://goo.gl/tfjBli" target="_blank"> our open test issues</a> in Docker.
+View <a href="http://goo.gl/EkyABb" target="_blank"> our open test issues</a> in Docker for something to work on. Or, create one of your own.
 
 {{< help >}}
 

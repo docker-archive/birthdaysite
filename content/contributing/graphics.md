@@ -33,22 +33,24 @@ architecture" target="_blank">poorly executed graphics</a> and improve them.
 
 # How to contribute graphics
 
+1. Choose from <a href="http://goo.gl/2KyMBo" target="_blank">a list of our
+existing graphic issues</a> or create one of your own.
 
-1. Create the graphic or other artwork.
+2. Create the graphic or other artwork.
 
 	You can create an illustration in any application. The source file for the
 	artwork could be a PSD, an AI, or a SVG file.  Of course, you also might just
 	submit a CSS file if it fits the task you took on.
 
-2. <a href="http://goo.gl/T0aSqd" target="_blank">License the output</a> to Docker. 
+3. <a href="http://goo.gl/T0aSqd" target="_blank">License the output</a> to Docker. 
 
-3.  Optionally, write a `README.txt` file to explain your work.
+4.  Optionally, write a `README.txt` file to explain your work.
 
 	For example, if the image should go into a specific point in the
 	documentation, explain where. Also, include the document's URL in your
 	README.  
 
-3.  Submit the source file(s), `README.txt`, and completed license <a
+5.  Submit the source file(s), `README.txt`, and completed license <a
 href="https://dev.dockerproject.com/c/share" target="_blank">on our Discourse share</a>.
 
 {{< help >}}
