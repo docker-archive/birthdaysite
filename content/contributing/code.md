@@ -82,15 +82,20 @@ issue</a>.
 	href="http://docs.docker.com/project/test-and-docs/" target="_blank">how to
 	test in our development environment</a>.  
 	
-	Also, remember to always **sign your commits** as you work! If you don't <a
-	href="https://twitter.com/gordontheturtle" target="_blank">Gordon</a> will get
-	you!
+	Also, remember to always **sign your commits** as you work! To sign your
+	commits, include the `-s` flag in your commit like this:
+	
+		$ git commit -s -m "Add commit with signature example"
+	
+	If you don't sign <a href="https://twitter.com/gordontheturtle"
+	target="_blank">Gordon</a> will get you!
 
 6. <a href="http://docs.docker.com/project/create-pr/" target="_blank">Create a
 pull request</a>.
 
 	If you make a change to fix an issue, add reference to the issue in the pull
-	request. Here is a perfect example:
+	request. Here is an example of a perfect pull request with a good description,
+	issue reference, and signature in the commit:
 	
 	![Sign commits and issues](/images/bonus.png)
 	
