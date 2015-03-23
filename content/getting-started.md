@@ -64,12 +64,15 @@ You might also want to check for open issues in our other Docker repositories:
 			<td class="tg-031e"><a href="https://github.com/docker/machine/issues" >docker/machine</a></td>
 			<td class="tg-031e">Software for the easy and quick creation of Docker hosts on your computer, on cloud providers, and inside your own data center.</td>
 		</tr>
+				<tr>
+			<td class="tg-031e"><a href="https://github.com/docker/distribution/issues">docker/distribution</a></td>
+			<td class="tg-031e">Registry implementation for storing and distributing
+			docker images. Provides a secure tool chain for distributing content.</td>
+		</tr>
 	<tr>
 			<td class="tg-031e"><a href="https://github.com/kitematic/kitematic/issues" >kitematic/kitematic</a></td>
 			<td class="tg-031e">Kitematic is a simple application for managing Docker containers on Mac OS X.</td>
    </tr>
-</td>
-		</tr>
 		<tr>
 			<td class="tg-031e"><a href="https://github.com/docker/swarm/issues">docker/swarm</a></td>
 			<td class="tg-031e">Native clustering for Docker; manage several Docker hosts as a single, virtual host.</td>
