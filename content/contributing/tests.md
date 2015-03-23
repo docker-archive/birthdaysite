@@ -13,7 +13,7 @@ Choose to contribute testing if you want to improve Docker software and processe
 # What can you contribute to testing?
 
 * Write a blog about <a href="http://www.appneta.com/blog/automated-testing-with-docker/" target="_blank">how your company uses Docker its test infrastructure</a>.  
-* Take or create an online usability test about Docker.
+* Take <a href="http://ows.io/tj/w88v3siv" target="_blank">an online usability test</a> or create a usability test about Docker.
 * Test the Docker documentation 
 
 
