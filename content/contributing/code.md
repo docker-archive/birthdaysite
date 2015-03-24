@@ -113,13 +113,14 @@ merge.
 This section contains some frequently asked questions and tips for
 troubleshooting problems in your code contribution.
 
-* [How do I set my signature?](#how-do-i-set-my-signature)
-* [How do I track changes from the docker repo upstream?](#how-do-i-set-the-docker-repo-as-the-upstream-master)
-* [How do I format my Go code?](#how-do-I-format-my-go-code)
-* [What is the pre-pull request checklist?](#what-is-the-pre-pull-request-checklist)
-* [How do I rebase my feature branch?](#how-do-I-rebase-my-feature-branch)
+- [How do I set my signature?](#how-do-i-set-my-signature:cb7f612e17aad7eb26c06709ef92a867)
+- [How do I track changes from the docker repo upstream?](#how-do-i-track-changes-from-the-docker-repo-upstream:cb7f612e17aad7eb26c06709ef92a867)
+- [How do I format my Go code?](#how-do-i-format-my-go-code:cb7f612e17aad7eb26c06709ef92a867)
+- [What is the pre-pull request checklist?](#what-is-the-pre-pull-request-checklist:cb7f612e17aad7eb26c06709ef92a867)
+- [How should I comment my code?](#how-should-i-comment-my-code:cb7f612e17aad7eb26c06709ef92a867)
+- [How do I rebase my feature branch?](#how-do-i-rebase-my-feature-branch:cb7f612e17aad7eb26c06709ef92a867)
 
-### How do I set my signature
+### How do I set my signature {#how-do-i-set-my-signature}
 
 1. Change to the root of your `docker-fork` repository.
 
@@ -169,8 +170,19 @@ revert would remove all traces of the feature or fix.
 ### How should I comment my code?
 
 The Go blog wrote about code comments, it is <a href="http://goo.gl/fXCRu"
-target="_blank">a single page explanation</a>. 
+target="_blank">a single page explanation</a>. A summary follows:
 
+- Comments begin with two forward `//` slashes.
+- To document a type, variable, constant, function, or even a package, write a
+regular comment directly preceding the elements declaration, with no intervening blank
+line. 
+- Comments on package declarations should provide general package documentation. 
+- For packages that need large amounts of introductory documentation: the
+package comment is placed in its own file.
+- Subsequent lines of text are considered part of the same paragraph; you must
+leave a blank line to separate paragraphs.
+-  Indent pre-formatted text relative to the surrounding comment text (see gob's doc.go for an example).
+- URLs are converted to HTML links; no special markup is necessary.
 
 ### How do I rebase my feature branch?
 
