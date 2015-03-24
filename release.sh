@@ -31,11 +31,15 @@ if [[ ! -d public ]]; then
     echo "something went wrong we should have a public folder."
 fi
 
-cd public
-
 [ "$AWS_S3_BUCKET" ] || usage
 [ "$AWS_ACCESS_KEY" ] || usage
 [ "$AWS_SECRET_KEY" ] || usage
+
+# move presentation to public
+mv presentation.pdf public/
+
+# enter public
+cd public
 
 # upload the files to s3
 s3cmd sync -P . s3://$AWS_S3_BUCKET/
