@@ -62,7 +62,7 @@ target="_blank">Github account</a>.
 # Write new or update existing documentation
 
 Writing documentation requires you to fork the Docker repo and write source
-using Markdown code.  We have a <a href="http://docs.docker.com/project">guide
+using Markdown code.  We have a <a href="http://docs.docker.com/project/who-written-for/">guide
 that walks you through the entire process</a>.
 
 You can check our list of <a href="http://goo.gl/eCfY69"
