@@ -13,7 +13,7 @@ There is no specific date or time for the online event - all you need is a compu
 
 We also have almost all you'll need to start contributing right here! Just go to the [Getting Started](/getting-started) on this site.
 
-As with the in-person events, the Docker Project team members and expert developers from the broader open source community will be online to help guide you through contributing. 
+As with the in-person events, the Docker Project team members and expert developers from the broader open source community will be in our online help channels to guide you through contributing.
 
 ## Mentor online
 
