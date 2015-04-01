@@ -9,7 +9,7 @@ From March 23rd through April 19th, any contributions made to the Docker Project
 
 ## How to participate
 
-There is no specific date or time for the online event - all you need is a computer and a desire to get involved in open source! To learn more, check out [our presentation created for the birthday week's events](/images/presentation.pdf). 
+There is no specific date or time for the online event - all you need is a computer and a desire to get involved in open source! To learn more, check out [our presentation created for the birthday week's events](/presentation.pdf). 
 
 We also have almost all you'll need to start contributing right here! Just see the [Getting Started](/getting-started) on this site.
 
