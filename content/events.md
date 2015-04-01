@@ -4,6 +4,8 @@ title = "Events"
 
 +++
 
+# ![Docker Party](/images/2-years.png)
+
 The Docker Project, the open platform for distributed applications, is
 organizing an open-source-a-thon, where Docker core team members will teach and
 mentor people on how to contribute to open source. Contributions include code,

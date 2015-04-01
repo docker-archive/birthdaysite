@@ -3,13 +3,18 @@ date = "2015-03-10T13:16:52-04:00"
 title = "Home"
 +++
 
-# ![Docker Party](/images/2-years.png)
 
 During the week of March 23rd, the Docker community will be hosting [over a
 dozen open-source-a-thon parties](/events) around the world. At these parties
 the Docker core team and expert developers from the broader open source
 community will teach and guide participants on how to contribute to open
 source.
+
+<div style="margin:auto;text-align:center;">
+<iframe src="//www.slideshare.net/slideshow/embed_code/46545496" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe><br>
+<a href="https://www.dropbox.com/s/6q93n362nylgk6i/Dockers%202nd%20Birthday.key?dl=0">Presentation Source File - Keynote</a>
+</div>
+
 
 # Charity
 

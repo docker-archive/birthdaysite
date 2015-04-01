@@ -3,6 +3,8 @@ date = "2015-03-10T13:10:38-04:00"
 title = "Online"
 +++
 
+# ![Docker Party](/images/2-years.png)
+
 From March 23rd through April 19th any contributions made to the Docker Project
 will count toward Docker’s donation to the Oceanic Society and its mission to
 conserve the habitat of Moby Dock and blue whales across the planet. We will be
