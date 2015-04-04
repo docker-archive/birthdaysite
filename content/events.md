@@ -49,10 +49,15 @@ If you are interested in mentoring then please RSVP on the meetup page and sign 
 
 ## March 31st
 
-* [**Miami** @ Choose Digital](http://www.meetup.com/Docker-Miami/events/221200897/) \*
+* [**Miami** @ Choose Digital](http://www.meetup.com/Docker-Miami/events/221200897/)
 
+## April 11th
 
-\* **Community Powered Events**
+* [**Singapore** @ Viki](http://www.meetup.com/Docker-Singapore/events/221412973/)
+
+## April 13th
+
+* [**Shanghai** @ Daocloud](http://www.meetup.com/Docker-Shanghai/events/221434008/)
 
 # Agenda
 
