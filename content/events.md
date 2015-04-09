@@ -54,12 +54,22 @@ If you are interested in mentoring then please RSVP on the meetup page and sign 
 ## April 11th
 
 * [**Singapore** @ Viki](http://www.meetup.com/Docker-Singapore/events/221412973/)
+* [**Libson**](http://www.meetup.com/DockerLisbon/events/221675292/)
 
 ## April 13th
 
 * [**Shanghai** @ Daocloud](http://www.meetup.com/Docker-Shanghai/events/221434008/)
 
-# Agenda
+## April 14th
+
+* [**Quezon City**](http://bluepoint.foundation/20150314113008/docker-s-2nd-birthday-celebration)
+
+## April 23rd
+
+* [**Washington DC** @ Vizuri](http://www.meetup.com/Docker-DC/events/221701412/)
+
+
+# Suggested Agenda
 
 * **5:45** - Doors Open
 * **6:00** to **6:30** - Introduction & Presentation on contributing to the Docker Open Source project
