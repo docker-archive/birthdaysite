@@ -5,7 +5,7 @@ title = "Online"
 
 # ![Docker Party](/images/2-years.png)
 
-From March 23rd through April 19th, any contributions made to the Docker Project will count toward Docker’s donation ($50 per contribution) to the Oceanic Society and its mission to conserve the habitat of Moby Dock and blue whales across the planet.
+From March 23rd through April 23rd, any contributions made to the Docker Project will count toward Docker’s donation ($50 per contribution) to the Oceanic Society and its mission to conserve the habitat of Moby Dock and blue whales across the planet.
 
 ## How to participate
 
